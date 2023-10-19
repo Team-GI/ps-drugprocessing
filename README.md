@@ -1,6 +1,8 @@
 # IF You Need Any Support You Can Join [Disocrd](https://github.com/Project-Sloth/ps-drugprocessing)
 
-## Note : -[Project Sloth](https://github.com/Project-Sloth/ps-drugprocessing) Is The Original creator of the script. this is just ox edit
+## The Script Can Be Used In QBOX 
+
+## Note : -[Project Sloth](https://github.com/Project-Sloth/ps-drugprocessing) Is The Original creator of the script.
 
 # Chemicals Preview
 ![image](https://user-images.githubusercontent.com/82112471/165860380-861eddc3-8548-442d-b483-2afd311970ad.png)
