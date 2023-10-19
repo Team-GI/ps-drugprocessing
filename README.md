@@ -27,7 +27,7 @@ Coming soon...
 # Meth Preview
 https://streamable.com/0pcjlt
 
-# Add to qb-core > shared.lua
+# Add to qbx_core > shared.lua > items.lua
 
 ```
     ["wet_weed"] 		 	 	 	 = {["name"] = "wet_weed",           			["label"] = "Moist Weed",	 			["weight"] = 3000, 		["type"] = "item", 		["image"] = "wet_weed.png", 			["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false,   ["combinable"] = nil,   ["expire"] = 90,  ["description"] = "Wet weed that needs to be treated!"},
@@ -60,14 +60,15 @@ https://streamable.com/0pcjlt
 
 # Add icon images
 
-qb-inventory > html > images
+ox_inventory>web>img
 
 # Dependencies
 * [PolyZone](https://github.com/mkafrin/PolyZone)
-* [qb-target](https://github.com/BerkieBb/qb-target)
-* [qb-menu](https://github.com/qbcore-framework/qb-menu)
-* [ps-ui](https://github.com/Project-Sloth/ps-ui)
+* [qbx_core](https://github.com/Qbox-project/qbx_core)
+* [ox_target](https://github.com/overextended/ox_target)
+* [ox_lib](https://github.com/overextended/ox_lib)
 * [Meth Lab IPL](https://github.com/Bob74/bob74_ipl/tree/master/dlc_tuner)
 
 # Original Repo
-https://github.com/DoPeMan17/esx_drugs
+
+# [Project Sloth](https://github.com/Project-Sloth/ps-drugprocessing)
